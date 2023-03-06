@@ -1,21 +1,18 @@
 # Voici demo
 
-<!-- [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/xeus-python-demo/retro/notebooks/?path=demo.ipynb) -->
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://voila-dashboards.github.io/voici-demo)
 
 [Voici](https://github.com/voila-dashboards/voici) deployed as a static site to GitHub Pages, for demo purposes.
 
-It uses
+It uses [jupyterlite-xeus-python](https://github.com/jupyterlite/xeus-python-kernel) as a default kernel with a pre-built Emscripten environment.
 
 ## ✨ Try it in your browser ✨
 
-TODO
-
-<!-- https://jupyterlite.github.io/xeus-python-demo/retro/notebooks/?path=demo.ipynb -->
+https://voila-dashboards.github.io/voici-demo
 
 ## 💡 How to make your own deployment
 
-TODO
-<!-- ![Deploy your own](deploy.gif) -->
+https://user-images.githubusercontent.com/21197331/223079815-0ea78df4-5173-4adc-a2e4-e10b9593a9f4.webm
 
 Then your site will be published under https://{USERNAME}.github.io/{DEMO_REPO_NAME}
 
