@@ -18,12 +18,12 @@ Then your site will be published under https://{USERNAME}.github.io/{DEMO_REPO_N
 
 ## 📦 How to install extra packages
 
-You can pre-install extra packages for xeus-python by adding them to the ``environment.yml`` file.
+You can pre-install extra packages by adding them to the ``environment.yml`` file.
 
-For example, if you want to create a JupyterLite deployment with NumPy and Matplotlib pre-installed, you would need to edit the ``environment.yml`` file as following:
+For example, if you want to create a Voici deployment with NumPy and Matplotlib pre-installed, you would need to edit the ``environment.yml`` file as following:
 
 ```yml
-name: xeus-python-kernel
+name: voici
 channels:
   - https://repo.mamba.pm/emscripten-forge
   - https://repo.mamba.pm/conda-forge
