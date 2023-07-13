@@ -5,3 +5,4 @@ channels:
 dependencies:
   - pandas
   - bqplot
+  - pyjs=1.0.0
