@@ -6,3 +6,4 @@ dependencies:
   - pandas
   - bqplot
   - pyjs=1.0.0
+  - ipywidgets=8.0.6
