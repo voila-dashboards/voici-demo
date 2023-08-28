@@ -4,7 +4,7 @@ channels:
 dependencies:
   - python
   - pip
-  - jupyterlite-xeus-python >=0.9.1,<0.10.0
+  - jupyterlite-xeus-python=0.9.3
   - pip:
     - voila==0.5.0a4
-    - voici=0.4.4
+    - voici==0.4.5
