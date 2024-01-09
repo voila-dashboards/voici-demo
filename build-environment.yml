@@ -5,5 +5,5 @@ dependencies:
   - python
   - pip
   - pip:
-    - jupyterlite-xeus===0.1.0a0
+    - jupyterlite-xeus===0.1.0a1
     - voici>=0.5,<0.6
