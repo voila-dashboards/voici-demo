@@ -5,5 +5,5 @@ dependencies:
   - python
   - pip
   - pip:
-    - jupyterlite-xeus>=0.1.5,<0.2
-    - voici>=0.5,<0.6
+    - jupyterlite-xeus>=0.1.8,<0.2
+    - voici-core>=0.6,<0.7
