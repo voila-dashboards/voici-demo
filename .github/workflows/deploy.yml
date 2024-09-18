@@ -21,9 +21,9 @@ jobs:
           python-version: '3.10'
 
       - name: Install mamba
-        uses: mamba-org/provision-with-micromamba@main
+        uses: mamba-org/setup-micromamba@v1
         with:
-          micromamba-version: '1.4.2'
+          micromamba-version: '1.5.8-0'
           environment-file: 'build-environment.yml'
 
       - name: Build the JupyterLite site
