@@ -1,7 +1,6 @@
 name: build-env
 channels:
-  - conda-forge/label/voici_alpha
   - conda-forge
 dependencies:
   - jupyterlite-xeus>=4.3.7
-  - voici_core>=0.10.0a2,<0.11
+  - voici_core>=0.10.0,<0.11
